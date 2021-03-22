@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.defaultLanguage": "markdown",
+		"foam.edit.linkReferenceDefinitions": "withExtensions",
+		"foam.openDailyNote.directory": "journal",
+		"pasteImage.path": "${projectRoot}/attachments",
+		"pasteImage.showFilePathConfirmInputBox": true,
+		"vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+		"vscodeMarkdownNotes.slugifyMethod": "github-slugger"
+	}
+}
